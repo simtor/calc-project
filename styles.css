@@ -11,3 +11,9 @@ body{
     background: linear-gradient(to left, #008000, #66CDAA );
 }
 
+.calcs-grid{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
